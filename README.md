@@ -16,3 +16,5 @@ https://www.youtube.com/watch?v=s1wNv0usPj4
 
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=s1wNv0usPj4 "StarlineDecoder")
+
+{% include youtube.html id="s1wNv0usPj4" %}
